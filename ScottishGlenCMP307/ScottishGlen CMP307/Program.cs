@@ -7,6 +7,7 @@ namespace ScottishGlen_CMP307
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Second Line")
         }
     }
 }
