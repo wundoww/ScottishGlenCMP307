@@ -11,6 +11,7 @@ namespace ScottishGlen_CMP307
             Console.WriteLine("Third Line")
             Console.WriteLine("Change made in visual studio")
             Console.WriteLine("Change made in Github")
+            Console.WriteLine("Commandline shortcut test")
         }
     }
 }
