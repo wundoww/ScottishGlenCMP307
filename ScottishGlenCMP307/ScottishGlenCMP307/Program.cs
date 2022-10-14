@@ -9,6 +9,7 @@ namespace ScottishGlen_CMP307
             Console.WriteLine("Hello World!");
             Console.WriteLine("Second Line")
             Console.WriteLine("Third Line")
+            Console.WriteLine("Fourth Line")
         }
     }
 }
